@@ -1,13 +1,7 @@
-code
-email
 finish Day 18
-exercise
-swimming
 tax documents
 practice
 puzzle
 fix program
 book tour
-help neighbors
-visit library
 create hosted version of web app
