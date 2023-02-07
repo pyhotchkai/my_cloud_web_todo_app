@@ -1,6 +1,5 @@
 finish Day 18
 tax documents
 practice
-puzzle
 fix program
 create hosted version of web app
