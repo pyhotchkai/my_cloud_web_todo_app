@@ -3,5 +3,4 @@ tax documents
 practice
 puzzle
 fix program
-book tour
 create hosted version of web app
